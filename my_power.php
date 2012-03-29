@@ -1,7 +1,7 @@
 <?php
 
 /**
-* Recursive function to calculate x ^ y
+* Recursive function that calculates x ^ y
 *
 * @param float   $base inputted base, a positive or negative number
 * @param integer $exp  inputted exponent, a positive or negative integer
