@@ -1,6 +1,9 @@
 Here are assorted PHP methods I have created in response to coding challenges.
 
-my_power - recursively computes a ^ b, where a is any positive or negative number, and b is any positive or negative integer
+my_power - recursively computes a ^ b, where
+           a is any positive or negative number, and
+           b is any positive or negative integer
+
 bin_search - conducts a non-recursive binary search
 
 Thanks for looking!
